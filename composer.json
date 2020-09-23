@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/adminroutes",
+    "name": "codica-studio/adminroutes",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/adminroutes",
+    "homepage": "https://github.com/codica-studio/adminroutes",
     "license": "MIT",
     "authors": [
         {
