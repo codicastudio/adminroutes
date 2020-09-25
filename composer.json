@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/adminroutes",
+    "name": "codicastudio/routes",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/adminroutes",
+    "homepage": "https://github.com/codicastudio/routes",
     "license": "MIT",
     "authors": [
         {
@@ -18,7 +18,7 @@
             "PrettyRoutes\\": "src"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "extra": {
         "laravel": {
             "providers": [
